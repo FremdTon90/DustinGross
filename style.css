@@ -75,11 +75,11 @@ nav ul li a:hover {
 
 header {
     background-color: rgba(13, 13, 13, 0.75);
-    color: #2fbbf0;
+    color: #2ff086;
     width: 98%;
     margin: 1%;
     border-radius: 10px;
-    box-shadow: 0 0 8px #2ff086;
+    box-shadow: 0 0 8px #1f7774;
     display: flex;
     justify-content: center;
     align-items: center;
