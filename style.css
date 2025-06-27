@@ -279,3 +279,13 @@ footer a:hover {
     padding: 10px;
     margin: 20px 0;
 }
+
+video.app-video {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 0 6px #1f7774;
+    background-color: black;
+}
